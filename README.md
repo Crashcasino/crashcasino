@@ -1,4 +1,4 @@
-### [Crash casino](https://crash-casino.io/) 👋<a href="https://crash-casino.io/" rel="dofollow">Crash casino</a>
+### [Crash casino](https://crash-casino.io/) 👋
 
 <!--
 **Crashcasino/crashcasino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
