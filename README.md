@@ -1,7 +1,9 @@
-### [Crash casino](https://crash-casino.io/) 👋
+### [Crash casino](https://crash-casino.io/) 👋<a href="https://crash-casino.io/" rel="dofollow">Crash casino</a>
 
 <!--
 **Crashcasino/crashcasino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Travail de développement pour intégrer des mini-jeux de casino sur un site web de façon responsable, ergonomique, intuitive. Crash Casino souhaite développer plusieurs application permettant de faciliter l'intégration web des fournisseurs de jeux, mais également pour une diffusion massive de leurs créations. 
 
